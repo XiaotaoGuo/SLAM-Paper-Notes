@@ -20,6 +20,6 @@
 
 - [Long-term map maintenance pipeline for autonomous vehicles](https://arxiv.org/pdf/2008.12449.pdf)[[阅读笔记](https://xiaotaoguo.com/p/paper-notes-long-term-map-maintenance-pipeline-for-autonomous-vehicles/)]
 
-## Math
+## Optimization
 
 - [The GraphSLAM Algorithm with Applications to Large-Scale Mapping of Urban Structures](http://robots.stanford.edu/papers/thrun.graphslam.pdf) [[阅读笔记](https://xiaotaoguo.com/tags/the-graphslam-algorithm-with-applications-to-large-scale-mapping-of-urban-structures/)]
