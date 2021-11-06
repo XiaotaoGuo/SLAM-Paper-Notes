@@ -4,18 +4,18 @@
 
 ### Feature-Based
 
-- [LOAM: Lidar Odometry and Mapping in Real-time](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf) [[阅读笔记](https://xiaotaoguo.com/p/paper-note-loam/)] [[原代码-ALOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)] [[ALOAM 代码注释](https://github.com/XiaotaoGuo/a-loam-w-comment)]
+- [LOAM: Lidar Odometry and Mapping in Real-time](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf) [[阅读笔记](https://xiaotaoguo.com/p/paper-note-loam/)] [[ALOAM 原 Repo](https://github.com/HKUST-Aerial-Robotics/A-LOAM)] [[ALOAM 代码注释](https://github.com/XiaotaoGuo/a-loam-w-comment)]
 - [[LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM/blob/master/Shan_Englot_IROS_2018_Preprint.pdf)][[代码](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)] [代码整理-TODO]
 
 ## LIO
 
 ### Optimization-Based
 
-- [LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2007.00258.pdf) [[阅读笔记](https://www.xiaotaoguo.com/p/paper-note-lio-sam/)][[代码](https://github.com/TixiaoShan/LIO-SAM)][代码整理-TODO]
+- [LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2007.00258.pdf) [[阅读笔记](https://www.xiaotaoguo.com/p/paper-note-lio-sam/)][[原 Repo](https://github.com/TixiaoShan/LIO-SAM)][代码整理-TODO]
 
 ### Kalman Filter-Based
 
-- [LINS: A Lidar-Inertial State Estimator for Robust and Efficient Navigation](https://arxiv.org/pdf/1907.02233.pdf) [[阅读笔记](https://xiaotaoguo.com/p/paper-note-lins/)][代码整理-TODO]
+- [LINS: A Lidar-Inertial State Estimator for Robust and Efficient Navigation](https://arxiv.org/pdf/1907.02233.pdf) ][[原 Repo](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM)] [[阅读笔记](https://xiaotaoguo.com/p/paper-note-lins/)][代码整理-TODO]
 
 ## Lidar Loop Clousure
 
