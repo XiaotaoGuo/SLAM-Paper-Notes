@@ -9,7 +9,13 @@
 
 ## LIO
 
+### Optimization-Based
+
 - [LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2007.00258.pdf) [[阅读笔记](https://www.xiaotaoguo.com/p/paper-note-lio-sam/)][[代码](https://github.com/TixiaoShan/LIO-SAM)][代码整理-TODO]
+
+### Kalman Filter-Based
+
+- [LINS: A Lidar-Inertial State Estimator for Robust and Efficient Navigation](https://arxiv.org/pdf/1907.02233.pdf) [[阅读笔记](https://xiaotaoguo.com/p/paper-note-lins/)][代码整理-TODO]
 
 ## Lidar Loop Clousure
 
