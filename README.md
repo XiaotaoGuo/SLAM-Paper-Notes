@@ -11,7 +11,7 @@
 
 ### Optimization-Based
 
-- [LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2007.00258.pdf) [[阅读笔记](https://www.xiaotaoguo.com/p/paper-note-lio-sam/)][[原 Repo](https://github.com/TixiaoShan/LIO-SAM)][代码整理-TODO]
+- [LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2007.00258.pdf) [[阅读笔记](https://www.xiaotaoguo.com/p/paper-note-lio-sam/)][[原 Repo](https://github.com/TixiaoShan/LIO-SAM)][[代码注释](https://github.com/XiaotaoGuo/lio-sam-w-comments)]
 
 ### Kalman Filter-Based
 
