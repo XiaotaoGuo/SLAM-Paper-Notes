@@ -5,7 +5,7 @@
 ### Feature-Based
 
 - [LOAM: Lidar Odometry and Mapping in Real-time](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf) [[阅读笔记](https://xiaotaoguo.com/p/paper-note-loam/)] [[ALOAM 原 Repo](https://github.com/HKUST-Aerial-Robotics/A-LOAM)] [[ALOAM 代码注释](https://github.com/XiaotaoGuo/a-loam-w-comment)]
-- [LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM/blob/master/Shan_Englot_IROS_2018_Preprint.pdf)[[原 Repo](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)] [代码整理-TODO]
+- [LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM/blob/master/Shan_Englot_IROS_2018_Preprint.pdf)[[原 Repo](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)] [[代码整理](https://github.com/XiaotaoGuo/lego-loam-w-comments)]
 
 ## LIO
 
