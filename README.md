@@ -2,12 +2,14 @@
 
 这个 Repo 主要用来整理自己读过的 SLAM 相关的论文以及比较感兴趣准备阅读的论文，大部分都会写一份博客对阅读过程进行整理。如果论文附有开源代码会视情况学习一下源码。
 
+## LO (Lidar Odometry)
+
 ### Feature-Based
 
 - [LOAM: Lidar Odometry and Mapping in Real-time](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf) [[阅读笔记](https://xiaotaoguo.com/p/paper-note-loam/)] [[ALOAM 原 Repo](https://github.com/HKUST-Aerial-Robotics/A-LOAM)] [[ALOAM 代码注释](https://github.com/XiaotaoGuo/a-loam-w-comment)]
 - [LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM/blob/master/Shan_Englot_IROS_2018_Preprint.pdf)[[原 Repo](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)] [[代码整理](https://github.com/XiaotaoGuo/lego-loam-w-comments)]
 
-## LIO
+## LIO (Lidar Inertial Odometry)
 
 ### Optimization-Based
 
@@ -21,6 +23,10 @@
 
 - [Real-Time Loop Closure in 2D LIDAR SLAM](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45466.pdf) [[阅读笔记](https://xiaotaoguo.com/p/paper-note-real-time-loop-closure-2d-lidar-slam/)]
 - [Scan Context: Egocentric Spatial Descriptor for Place Recognition within 3D Point Cloud Map](https://ieeexplore.ieee.org/document/8593953) [[阅读笔记](https://www.xiaotaoguo.com/p/paper-note-scan-context/)]
+
+## Map Based Localization
+
+- [LiDAR Inertial Odometry Aided Robust LiDAR Localization System in Changing City Scenes](https://songshiyu01.github.io/pdf/LIO_W.Ding_S.Song_ICRA2020.pdf) [[阅读笔记](https://xiaotaoguo.com/p/paper-note-lidarinertialodometryaidedrobustlidarlocalizationsysteminchangingcityscenes/)]
 
 ## Map Maintenence
 
