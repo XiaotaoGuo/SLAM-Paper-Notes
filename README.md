@@ -27,6 +27,7 @@
 ## Map Based Localization
 
 - [LiDAR Inertial Odometry Aided Robust LiDAR Localization System in Changing City Scenes](https://songshiyu01.github.io/pdf/LIO_W.Ding_S.Song_ICRA2020.pdf) [[阅读笔记](https://xiaotaoguo.com/p/paper-note-lidarinertialodometryaidedrobustlidarlocalizationsysteminchangingcityscenes/)]
+- [Robust and Precise Vehicle Localization based on Multi-sensor Fusion in Diverse City Scenes](https://songshiyu01.github.io/pdf/ICRA18_0470_FI.pdf) [[阅读笔记](https://xiaotaoguo.com/p/paper-note-robust-and-precise-vehicle-localization-based-on-multi-sensor-fusion-in-diverse-city-scenes/)]
 
 ## Map Maintenence
 
