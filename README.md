@@ -22,7 +22,7 @@
 ## Lidar Loop Clousure
 
 - [Real-Time Loop Closure in 2D LIDAR SLAM](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45466.pdf) [[阅读笔记](https://xiaotaoguo.com/p/paper-note-real-time-loop-closure-2d-lidar-slam/)]
-- [Scan Context: Egocentric Spatial Descriptor for Place Recognition within 3D Point Cloud Map](https://ieeexplore.ieee.org/document/8593953) [[阅读笔记](https://www.xiaotaoguo.com/p/paper-note-scan-context/)]
+- [Scan Context: Egocentric Spatial Descriptor for Place Recognition within 3D Point Cloud Map](https://ieeexplore.ieee.org/document/8593953) [[阅读笔记](https://www.xiaotaoguo.com/p/paper-note-scan-context/)][[SC-LeGO-LOAM 代码注释](https://github.com/XiaotaoGuo/SC-LeGO-LOAM)]
 
 ## Map Based Localization
 
