@@ -34,6 +34,7 @@
 - [Robust and Precise Vehicle Localization based on Multi-sensor Fusion in Diverse City Scenes](https://songshiyu01.github.io/pdf/ICRA18_0470_FI.pdf) [[阅读笔记](https://xiaotaoguo.com/p/paper-note-robust-and-precise-vehicle-localization-based-on-multi-sensor-fusion-in-diverse-city-scenes/)]
 - [Long-term map maintenance pipeline for autonomous vehicles](https://arxiv.org/pdf/2008.12449.pdf)[[阅读笔记](https://xiaotaoguo.com/p/paper-notes-long-term-map-maintenance-pipeline-for-autonomous-vehicles/)]
 - [A General Framework for Lifelong Localization and Mapping in Changing Environment](https://arxiv.org/pdf/2111.10946.pdf)
+- [LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping](https://arxiv.org/pdf/2107.07712.pdf)
 - [How to Keep Hd Maps for Automated Driving Up to Date](https://ieeexplore.ieee.org/document/9197419)[[阅读笔记](https://xiaotaoguo.com/p/paper-note-how-to-keep-hd-maps-for-automated-driving-up-to-date/)]
 
 ## Optimization
